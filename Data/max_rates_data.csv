@@ -1,0 +1,2241 @@
+﻿treat,id,population,heat_2,time_2,body_part,temp,mass_initial,urine,posture
+Heliothermy,AY18,Ayamonte,Cooling,0,Snout,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,0,Eye,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,0,Head,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,0,Dorsum,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,0,Leg,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,0,Foot,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,0,Tail,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Snout,0.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Eye,-0.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Head,-0.5,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Dorsum,-0.5,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Leg,-0.8,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Foot,-0.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,20,Tail,-0.4,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Snout,-0.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Eye,-0.7,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Head,-0.8,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Dorsum,-0.9,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Leg,-1.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Foot,-0.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,40,Tail,-0.4,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Snout,-0.6,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Eye,-0.8,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Head,-1.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Dorsum,-1.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Leg,-1.7,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Foot,-0.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Cooling,60,Tail,-0.5,7.2041,0,1
+Heliothermy,AY19,Ayamonte,Cooling,0,Snout,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,0,Eye,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,0,Head,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,0,Dorsum,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,0,Leg,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,0,Foot,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,0,Tail,0,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,20,Snout,-0.5,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,20,Eye,-0.1,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,20,Head,-0.1,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,20,Dorsum,-0.8,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,20,Leg,-0.4,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,20,Foot,-0.7,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,20,Tail,-0.4,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Cooling,40,Snout,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,40,Eye,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,40,Head,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,40,Dorsum,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,40,Leg,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,40,Foot,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,40,Tail,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Snout,-0.6,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Eye,-0.8,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Head,-1,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Dorsum,-2,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Leg,-1.1,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Foot,,10.7872,1,0.5
+Heliothermy,AY19,Ayamonte,Cooling,60,Tail,-1.1,10.7872,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Snout,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Eye,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Head,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Dorsum,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Leg,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Foot,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,0,Tail,0,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Snout,-0.2,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Eye,-0.3,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Head,-0.1,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Dorsum,-0.8,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Leg,-1,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Foot,-0.4,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,20,Tail,-0.6,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Snout,-0.5,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Eye,-0.7,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Head,-0.6,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Dorsum,-1.4,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Leg,-1.5,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Foot,-0.1,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,40,Tail,-1.3,7.657,1,0.5
+Heliothermy,AY21,Ayamonte,Cooling,60,Snout,,7.657,1,0
+Heliothermy,AY21,Ayamonte,Cooling,60,Eye,,7.657,1,0
+Heliothermy,AY21,Ayamonte,Cooling,60,Head,,7.657,1,0
+Heliothermy,AY21,Ayamonte,Cooling,60,Dorsum,,7.657,1,0
+Heliothermy,AY21,Ayamonte,Cooling,60,Leg,,7.657,1,0
+Heliothermy,AY21,Ayamonte,Cooling,60,Foot,,7.657,1,0
+Heliothermy,AY21,Ayamonte,Cooling,60,Tail,,7.657,1,0
+Heliothermy,AY6,Ayamonte,Cooling,0,Snout,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,0,Eye,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,0,Head,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,0,Dorsum,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,0,Leg,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,0,Foot,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,0,Tail,0,7.0416,0,0.5
+Heliothermy,AY6,Ayamonte,Cooling,20,Snout,0,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,20,Eye,-0.3,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,20,Head,-0.4,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,20,Dorsum,-0.6,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,20,Leg,-1.2,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,20,Foot,-0.3,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,20,Tail,-0.9,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Snout,0.1,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Eye,-0.7,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Head,-0.6,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Dorsum,-1,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Leg,-1.83,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Foot,-0.1,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,40,Tail,-1.6,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Snout,-0.7,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Eye,-1.2,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Head,-1,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Dorsum,-1.3,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Leg,-3.2,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Foot,-0.1,7.0416,0,1
+Heliothermy,AY6,Ayamonte,Cooling,60,Tail,-2.7,7.0416,0,1
+Heliothermy,AY7,Ayamonte,Cooling,0,Snout,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,0,Eye,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,0,Head,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,0,Dorsum,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,0,Leg,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,0,Foot,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,0,Tail,0,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,20,Snout,-0.9,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,20,Eye,-1.2,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,20,Head,-0.6,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,20,Dorsum,-0.7,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,20,Leg,-0.3,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,20,Foot,-0.5,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,20,Tail,0,7.4611,0,1
+Heliothermy,AY7,Ayamonte,Cooling,40,Snout,-2.4,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,40,Eye,-2,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,40,Head,-0.9,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,40,Dorsum,-1.2,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,40,Leg,-1,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,40,Foot,-0.7,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,40,Tail,-0.7,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Snout,,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Eye,,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Head,,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Dorsum,-1.6,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Leg,-1,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Foot,-0.6,7.4611,0,0.5
+Heliothermy,AY7,Ayamonte,Cooling,60,Tail,-0.8,7.4611,0,0.5
+Heliothermy,EV1,Evora,Cooling,0,Snout,0,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,0,Eye,0,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,0,Head,0,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,0,Dorsum,0,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,0,Leg,,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,0,Foot,,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,0,Tail,0,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,20,Snout,-0.5,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,20,Eye,-0.7,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,20,Head,-0.7,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,20,Dorsum,-0.4,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,20,Leg,,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,20,Foot,,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,20,Tail,0.3,6.6861,0,0
+Heliothermy,EV1,Evora,Cooling,40,Snout,-0.8,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,40,Eye,-1.1,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,40,Head,-1.4,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,40,Dorsum,-0.6,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,40,Leg,,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,40,Foot,,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,40,Tail,-0.1,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Snout,-1.5,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Eye,-1.7,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Head,-1.7,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Dorsum,-1.2,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Leg,,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Foot,,6.6861,0,1
+Heliothermy,EV1,Evora,Cooling,60,Tail,-1,6.6861,0,1
+Heliothermy,EV12,Evora,Cooling,0,Snout,0,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,0,Eye,0,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,0,Head,0,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,0,Dorsum,0,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,0,Leg,0,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,0,Foot,,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,0,Tail,0,9.6967,1,0
+Heliothermy,EV12,Evora,Cooling,20,Snout,-1,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,20,Eye,-0.9,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,20,Head,-0.9,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,20,Dorsum,-0.8,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,20,Leg,-0.4,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,20,Foot,,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,20,Tail,-0.6,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Snout,-1.1,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Eye,-1.6,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Head,-1.2,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Dorsum,-1.1,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Leg,-0.9,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Foot,,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,40,Tail,-1,9.6967,1,1
+Heliothermy,EV12,Evora,Cooling,60,Snout,-1.2,9.6967,1,0.5
+Heliothermy,EV12,Evora,Cooling,60,Eye,-2.1,9.6967,1,0.5
+Heliothermy,EV12,Evora,Cooling,60,Head,-1.7,9.6967,1,0.5
+Heliothermy,EV12,Evora,Cooling,60,Dorsum,-1.4,9.6967,1,0.5
+Heliothermy,EV12,Evora,Cooling,60,Leg,-1.2,9.6967,1,0.5
+Heliothermy,EV12,Evora,Cooling,60,Foot,,9.6967,1,0.5
+Heliothermy,EV12,Evora,Cooling,60,Tail,-1.3,9.6967,1,0.5
+Heliothermy,EV17,Evora,Cooling,0,Snout,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,0,Eye,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,0,Head,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,0,Dorsum,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,0,Leg,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,0,Foot,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,0,Tail,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Snout,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Eye,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Head,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Dorsum,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Leg,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Foot,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,20,Tail,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Snout,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Eye,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Head,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Dorsum,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Leg,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Foot,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,40,Tail,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Snout,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Eye,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Head,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Dorsum,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Leg,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Foot,,10.266,0,0.5
+Heliothermy,EV17,Evora,Cooling,60,Tail,,10.266,0,0.5
+Heliothermy,EV19,Evora,Cooling,0,Snout,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,0,Eye,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,0,Head,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,0,Dorsum,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,0,Leg,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,0,Foot,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,0,Tail,0,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Snout,-0.6,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Eye,-0.9,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Head,-0.8,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Dorsum,-0.5,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Leg,-0.8,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Foot,-0.4,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,20,Tail,-0.7,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Snout,-1.4,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Eye,-1.6,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Head,-1.5,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Dorsum,-1.1,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Leg,-1.1,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Foot,-0.5,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,40,Tail,-0.9,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Snout,-1.9,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Eye,-2.4,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Head,-2.2,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Dorsum,-1.5,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Leg,-1.7,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Foot,-0.8,11.6478,0,0
+Heliothermy,EV19,Evora,Cooling,60,Tail,-1.6,11.6478,0,0
+Heliothermy,EV8,Evora,Cooling,0,Snout,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,0,Eye,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,0,Head,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,0,Dorsum,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,0,Leg,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,0,Foot,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,0,Tail,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Snout,,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Eye,,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Head,,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Dorsum,-0.6,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Leg,-0.3,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Foot,-0.6,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,20,Tail,-0.5,9.4573,1,0.5
+Heliothermy,EV8,Evora,Cooling,40,Snout,,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,40,Eye,,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,40,Head,,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,40,Dorsum,-1.3,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,40,Leg,-1,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,40,Foot,-0.9,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,40,Tail,-1.1,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Snout,-0.3,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Eye,-1,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Head,-1.3,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Dorsum,-1.8,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Leg,-1.3,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Foot,-1.1,9.4573,1,1
+Heliothermy,EV8,Evora,Cooling,60,Tail,-0.8,9.4573,1,1
+Heliothermy,PT1,Portimao,Cooling,0,Snout,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,0,Eye,0,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,0,Head,0,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,0,Dorsum,0,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,0,Leg,0,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,0,Foot,0,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,0,Tail,0,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Snout,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Eye,-0.8,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Head,-1.1,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Dorsum,-0.7,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Leg,-0.6,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Foot,-0.7,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,20,Tail,-0.7,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,40,Snout,,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,40,Eye,-1,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,40,Head,-1.3,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,40,Dorsum,-1.1,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,40,Leg,-1.3,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,40,Foot,-0.9,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,40,Tail,-0.7,11.5596,0,0
+Heliothermy,PT1,Portimao,Cooling,60,Snout,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,60,Eye,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,60,Head,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,60,Dorsum,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,60,Leg,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,60,Foot,,11.5596,0,0.5
+Heliothermy,PT1,Portimao,Cooling,60,Tail,-2.5,11.5596,0,0.5
+Heliothermy,PT14,Portimao,Cooling,0,Snout,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,0,Eye,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,0,Head,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,0,Dorsum,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,0,Leg,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,0,Foot,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,0,Tail,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Snout,0,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Eye,-1.1,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Head,-0.8,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Dorsum,-1,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Leg,-0.2,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Foot,-0.1,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,20,Tail,-0.6,7.78,0,0
+Heliothermy,PT14,Portimao,Cooling,40,Snout,-1.3,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,40,Eye,-1.6,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,40,Head,-1.4,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,40,Dorsum,-2.1,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,40,Leg,-0.4,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,40,Foot,,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,40,Tail,-1.2,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Snout,-1.2,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Eye,-1.9,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Head,-1.8,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Dorsum,-2.6,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Leg,-0.7,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Foot,,7.78,0,1
+Heliothermy,PT14,Portimao,Cooling,60,Tail,-1.6,7.78,0,1
+Heliothermy,PT18,Portimao,Cooling,0,Snout,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,0,Eye,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,0,Head,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,0,Dorsum,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,0,Leg,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,0,Foot,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,0,Tail,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Snout,-0.5,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Eye,-0.4,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Head,-0.6,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Dorsum,-0.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Leg,-1.3,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Foot,-0.5,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,20,Tail,-0.7,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Snout,-0.4,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Eye,-0.8,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Head,-0.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Dorsum,-1.5,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Leg,-2.1,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Foot,-0.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,40,Tail,-1.1,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Snout,-0.5,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Eye,-1.2,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Head,-1.5,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Dorsum,-2.2,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Leg,-3,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Foot,-1.3,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Cooling,60,Tail,-1.6,12.0763,1,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Snout,,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Eye,0,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Head,0,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Dorsum,0,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Leg,0,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Foot,0,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,0,Tail,0,7.6055,0,0.5
+Heliothermy,PTA,Portimao,Cooling,20,Snout,,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,20,Eye,-0.7,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,20,Head,-0.4,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,20,Dorsum,-0.6,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,20,Leg,-0.8,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,20,Foot,-0.7,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,20,Tail,-0.6,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Snout,,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Eye,-1.3,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Head,-1.2,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Dorsum,-1.1,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Leg,-1.5,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Foot,-0.1,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,40,Tail,-0.6,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Snout,,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Eye,-2,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Head,-1.3,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Dorsum,,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Leg,,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Foot,,7.6055,0,1
+Heliothermy,PTA,Portimao,Cooling,60,Tail,,7.6055,0,1
+Heliothermy,PTB,Portimao,Cooling,0,Snout,0,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,0,Eye,0,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,0,Head,0,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,0,Dorsum,0,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,0,Leg,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,0,Foot,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,0,Tail,0,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Snout,-0.4,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Eye,-0.9,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Head,-0.6,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Dorsum,-0.4,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Leg,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Foot,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,20,Tail,-0.3,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Snout,-0.9,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Eye,-1.6,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Head,-1.4,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Dorsum,-1.1,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Leg,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Foot,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,40,Tail,-0.7,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Snout,-1.7,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Eye,-2,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Head,-1.8,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Dorsum,-1.5,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Leg,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Foot,,11.3208,1,0.5
+Heliothermy,PTB,Portimao,Cooling,60,Tail,-1.2,11.3208,1,0.5
+Heliothermy,TV10,Torres Vedras,Cooling,0,Snout,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,0,Eye,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,0,Head,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,0,Dorsum,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,0,Leg,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,0,Foot,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,0,Tail,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Snout,,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Eye,,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Head,-1,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Dorsum,-0.9,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Leg,0.1,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Foot,-0.3,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,20,Tail,-0.5,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,40,Snout,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,40,Eye,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,40,Head,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,40,Dorsum,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,40,Leg,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,40,Foot,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,40,Tail,,6.3937,0,1
+Heliothermy,TV10,Torres Vedras,Cooling,60,Snout,-0.9,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,60,Eye,-1.4,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,60,Head,-1.9,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,60,Dorsum,-1.9,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,60,Leg,-0.9,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,60,Foot,-0.5,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Cooling,60,Tail,-1.7,6.3937,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,0,Snout,0,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,0,Eye,0,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,0,Head,0,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,0,Dorsum,0,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,0,Leg,,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,0,Foot,0,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,0,Tail,0,6.3713,0,0.5
+Heliothermy,TV13,Torres Vedras,Cooling,20,Snout,0.1,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,20,Eye,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,20,Head,-0.2,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,20,Dorsum,-0.5,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,20,Leg,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,20,Foot,-2.3,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,20,Tail,-0.7,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Snout,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Eye,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Head,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Dorsum,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Leg,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Foot,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,40,Tail,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Snout,-2.8,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Eye,-2.5,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Head,-1.8,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Dorsum,-1.9,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Leg,,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Foot,-2.7,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Cooling,60,Tail,-2.7,6.3713,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Snout,0,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Eye,0,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Head,0,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Dorsum,0,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Leg,0,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Foot,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,0,Tail,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Snout,-0.3,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Eye,-0.6,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Head,-0.8,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Dorsum,-1,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Leg,-0.7,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Foot,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,20,Tail,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Snout,-0.3,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Eye,-1.2,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Head,-1.5,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Dorsum,-1.9,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Leg,-1.5,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Foot,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,40,Tail,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Snout,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Eye,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Head,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Dorsum,-2.6,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Leg,-1.8,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Foot,,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Cooling,60,Tail,,7.918,0,0
+Heliothermy,TV16,Torres Vedras,Cooling,0,Snout,,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,0,Eye,0,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,0,Head,0,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,0,Dorsum,0,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,0,Leg,0,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,0,Foot,0,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,0,Tail,0,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Snout,,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Eye,-0.1,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Head,-0.6,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Dorsum,-0.6,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Leg,-0.5,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Foot,-0.2,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,20,Tail,-0.9,6.6971,0,0.5
+Heliothermy,TV16,Torres Vedras,Cooling,40,Snout,,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,40,Eye,,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,40,Head,,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,40,Dorsum,-1.3,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,40,Leg,-1.5,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,40,Foot,-0.2,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,40,Tail,-1.9,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Snout,,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Eye,-1.1,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Head,-1.7,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Dorsum,-1.5,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Leg,-1.7,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Foot,-1.5,6.6971,0,1
+Heliothermy,TV16,Torres Vedras,Cooling,60,Tail,-2.7,6.6971,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,0,Snout,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,0,Eye,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,0,Head,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,0,Dorsum,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,0,Leg,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,0,Foot,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,0,Tail,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Snout,-0.3,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Eye,-0.6,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Head,-0.5,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Dorsum,-0.8,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Leg,-0.9,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Foot,-0.7,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,20,Tail,-0.5,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Cooling,40,Snout,-1.4,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,40,Eye,-1.6,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,40,Head,-1.7,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,40,Dorsum,-1.8,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,40,Leg,-1.9,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,40,Foot,-0.5,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,40,Tail,-1.3,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Snout,,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Eye,,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Head,,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Dorsum,,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Leg,,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Foot,,12.0274,0,1
+Heliothermy,TV2,Torres Vedras,Cooling,60,Tail,,12.0274,0,1
+Thigmothermy,AY18,Ayamonte,Cooling,0,Snout,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,0,Eye,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,0,Head,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,0,Dorsum,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,0,Leg,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,0,Foot,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,0,Tail,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Snout,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Eye,0.2,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Head,0,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Dorsum,-0.4,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Leg,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Foot,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,20,Tail,-0.6,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Snout,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Eye,-0.2,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Head,-0.6,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Dorsum,-0.9,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Leg,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Foot,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,40,Tail,-1.1,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Snout,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Eye,-0.5,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Head,-1.2,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Dorsum,-1.5,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Leg,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Foot,,7.667,0,0
+Thigmothermy,AY18,Ayamonte,Cooling,60,Tail,-1.5,7.667,0,0
+Thigmothermy,AY19,Ayamonte,Cooling,0,Snout,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,0,Eye,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,0,Head,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,0,Dorsum,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,0,Leg,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,0,Foot,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,0,Tail,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Snout,-0.4,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Eye,-0.3,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Head,-0.6,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Dorsum,0,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Leg,0.1,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Foot,-0.3,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,20,Tail,-0.5,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Snout,-0.4,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Eye,-0.6,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Head,-0.8,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Dorsum,-0.4,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Leg,-0.4,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Foot,-0.5,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,40,Tail,-1.1,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Snout,-0.6,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Eye,-0.8,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Head,-1.2,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Dorsum,-0.8,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Leg,-1,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Foot,-0.8,10.8708,0,0.5
+Thigmothermy,AY19,Ayamonte,Cooling,60,Tail,-1.8,10.8708,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Snout,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Eye,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Head,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Dorsum,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Leg,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Foot,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,0,Tail,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Snout,-0.2,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Eye,-0.4,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Head,-0.7,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Dorsum,-0.6,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Leg,-1.1,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Foot,-0.6,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,20,Tail,-0.7,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Snout,-0.5,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Eye,-0.6,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Head,-1.2,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Dorsum,-1,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Leg,-1.8,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Foot,-0.8,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,40,Tail,-1.1,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Snout,-0.9,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Eye,-1.2,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Head,-1.7,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Dorsum,-1.5,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Leg,-2.8,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Foot,-1.3,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Cooling,60,Tail,-1.7,7.5546,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Snout,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Eye,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Head,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Dorsum,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Leg,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Foot,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,0,Tail,0,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Snout,-0.5,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Eye,-0.6,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Head,-0.7,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Dorsum,-0.3,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Leg,-0.9,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Foot,-0.6,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,20,Tail,-0.5,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Snout,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Eye,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Head,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Dorsum,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Leg,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Foot,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,40,Tail,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Snout,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Eye,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Head,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Dorsum,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Leg,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Foot,,6.9866,0,0.5
+Thigmothermy,AY6,Ayamonte,Cooling,60,Tail,,6.9866,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Snout,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Eye,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Head,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Dorsum,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Leg,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Foot,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,0,Tail,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Cooling,20,Snout,,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,20,Eye,0.2,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,20,Head,0.6,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,20,Dorsum,-0.2,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,20,Leg,-0.3,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,20,Foot,-0.7,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,20,Tail,-0.5,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Snout,-0.7,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Eye,-0.8,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Head,-0.2,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Dorsum,-0.6,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Leg,-1,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Foot,-0.7,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,40,Tail,-0.7,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Snout,-0.7,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Eye,-1.1,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Head,-0.8,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Dorsum,-1,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Leg,-1.8,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Foot,-1.1,7.2759,0,1
+Thigmothermy,AY7,Ayamonte,Cooling,60,Tail,-1.2,7.2759,0,1
+Thigmothermy,EV1,Evora,Cooling,0,Snout,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,0,Eye,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,0,Head,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,0,Dorsum,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,0,Leg,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,0,Foot,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,0,Tail,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Cooling,20,Snout,-0.5,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,20,Eye,-0.4,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,20,Head,-0.5,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,20,Dorsum,-0.6,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,20,Leg,-0.8,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,20,Foot,-0.6,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,20,Tail,-0.8,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Snout,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Eye,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Head,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Dorsum,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Leg,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Foot,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,40,Tail,,6.5996,0,0.5
+Thigmothermy,EV1,Evora,Cooling,60,Snout,-2.1,6.5996,0,1
+Thigmothermy,EV1,Evora,Cooling,60,Eye,-1.9,6.5996,0,1
+Thigmothermy,EV1,Evora,Cooling,60,Head,-1.6,6.5996,0,1
+Thigmothermy,EV1,Evora,Cooling,60,Dorsum,-1.5,6.5996,0,1
+Thigmothermy,EV1,Evora,Cooling,60,Leg,-1.5,6.5996,0,1
+Thigmothermy,EV1,Evora,Cooling,60,Foot,-0.4,6.5996,0,1
+Thigmothermy,EV1,Evora,Cooling,60,Tail,-1.8,6.5996,0,1
+Thigmothermy,EV12,Evora,Cooling,0,Snout,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,0,Eye,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,0,Head,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,0,Dorsum,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,0,Leg,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,0,Foot,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,0,Tail,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Snout,0.1,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Eye,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Head,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Dorsum,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Leg,0,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Foot,-0.5,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,20,Tail,-0.2,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Snout,-0.2,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Eye,-0.2,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Head,-0.5,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Dorsum,-0.3,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Leg,-0.2,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Foot,-0.8,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,40,Tail,-0.6,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Snout,-0.3,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Eye,-0.4,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Head,-0.6,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Dorsum,-0.6,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Leg,-0.4,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Foot,-0.9,9.6202,1,0.5
+Thigmothermy,EV12,Evora,Cooling,60,Tail,-0.8,9.6202,1,0.5
+Thigmothermy,EV17,Evora,Cooling,0,Snout,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,0,Eye,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,0,Head,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,0,Dorsum,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,0,Leg,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,0,Foot,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,0,Tail,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Snout,-0.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Eye,-0.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Head,-0.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Dorsum,-0.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Leg,-0.9,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Foot,,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,20,Tail,-1.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Snout,-1.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Eye,-1.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Head,-1,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Dorsum,-0.6,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Leg,-1.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Foot,,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,40,Tail,-1.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Snout,-1.6,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Eye,-1.8,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Head,-1.5,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Dorsum,-1.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Leg,-2.3,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Foot,,10.4821,0,0
+Thigmothermy,EV17,Evora,Cooling,60,Tail,-2,10.4821,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Snout,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Eye,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Head,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Dorsum,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Leg,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Foot,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,0,Tail,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Snout,-0.7,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Eye,-0.4,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Head,-0.3,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Dorsum,-0.5,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Leg,-1,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Foot,-0.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,20,Tail,-0.7,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Snout,-0.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Eye,-0.5,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Head,-0.7,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Dorsum,-0.9,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Leg,-1.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Foot,-1.2,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,40,Tail,-1.2,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Snout,-0.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Eye,-0.7,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Head,-1.1,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Dorsum,-1.3,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Leg,-2.5,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Foot,-1.4,11.6157,0,0
+Thigmothermy,EV19,Evora,Cooling,60,Tail,-1.8,11.6157,0,0
+Thigmothermy,EV8,Evora,Cooling,0,Snout,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,0,Eye,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,0,Head,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,0,Dorsum,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,0,Leg,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,0,Foot,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,0,Tail,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Snout,-0.1,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Eye,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Head,-0.2,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Dorsum,-0.5,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Leg,-0.5,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Foot,-0.8,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,20,Tail,-0.6,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Snout,0,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Eye,-0.3,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Head,-0.6,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Dorsum,-0.9,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Leg,-0.8,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Foot,-1.1,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,40,Tail,-1,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Snout,-0.1,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Eye,-0.5,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Head,-0.9,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Dorsum,-1.4,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Leg,-1.4,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Foot,-1.6,9.5652,1,1
+Thigmothermy,EV8,Evora,Cooling,60,Tail,-1.5,9.5652,1,1
+Thigmothermy,PT1,Portimao,Cooling,0,Snout,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,0,Eye,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,0,Head,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,0,Dorsum,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,0,Leg,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,0,Foot,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,0,Tail,0,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Snout,-0.4,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Eye,-0.6,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Head,-0.5,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Dorsum,-0.6,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Leg,-0.7,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Foot,-0.7,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,20,Tail,-0.9,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Snout,,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Eye,-1.3,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Head,-1.1,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Dorsum,-1.1,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Leg,-1.5,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Foot,-0.6,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,40,Tail,-1.5,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Cooling,60,Snout,,10.9363,1,1
+Thigmothermy,PT1,Portimao,Cooling,60,Eye,-1.7,10.9363,1,1
+Thigmothermy,PT1,Portimao,Cooling,60,Head,-1.4,10.9363,1,1
+Thigmothermy,PT1,Portimao,Cooling,60,Dorsum,-1.5,10.9363,1,1
+Thigmothermy,PT1,Portimao,Cooling,60,Leg,-2.4,10.9363,1,1
+Thigmothermy,PT1,Portimao,Cooling,60,Foot,-0.7,10.9363,1,1
+Thigmothermy,PT1,Portimao,Cooling,60,Tail,-2.3,10.9363,1,1
+Thigmothermy,PT14,Portimao,Cooling,0,Snout,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,0,Eye,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,0,Head,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,0,Dorsum,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,0,Leg,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,0,Foot,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,0,Tail,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Snout,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Eye,-0.2,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Head,-0.4,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Dorsum,-0.7,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Leg,-0.5,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Foot,0.1,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,20,Tail,-0.7,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Snout,-0.7,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Eye,-1.3,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Head,-1,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Dorsum,-1.2,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Leg,-0.9,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Foot,-0.1,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,40,Tail,-1.4,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Cooling,60,Snout,-0.7,7.9894,1,0
+Thigmothermy,PT14,Portimao,Cooling,60,Eye,-1.4,7.9894,1,0
+Thigmothermy,PT14,Portimao,Cooling,60,Head,-1.3,7.9894,1,0
+Thigmothermy,PT14,Portimao,Cooling,60,Dorsum,-1.7,7.9894,1,0
+Thigmothermy,PT14,Portimao,Cooling,60,Leg,-1.7,7.9894,1,0
+Thigmothermy,PT14,Portimao,Cooling,60,Foot,-0.6,7.9894,1,0
+Thigmothermy,PT14,Portimao,Cooling,60,Tail,-2,7.9894,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Snout,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Eye,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Head,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Dorsum,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Leg,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Foot,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,0,Tail,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Snout,-0.7,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Eye,-0.6,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Head,-0.6,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Dorsum,-0.4,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Leg,-0.2,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Foot,-0.9,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,20,Tail,-0.5,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Snout,-1.1,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Eye,-0.8,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Head,-1,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Dorsum,-0.6,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Leg,-0.4,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Foot,-1.1,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,40,Tail,-0.8,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Snout,-1.3,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Eye,-1.6,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Head,-1.3,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Dorsum,-0.9,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Leg,-1.1,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Foot,-1.1,12.0487,1,0
+Thigmothermy,PT18,Portimao,Cooling,60,Tail,-1.4,12.0487,1,0
+Thigmothermy,PTA,Portimao,Cooling,0,Snout,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,0,Eye,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,0,Head,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,0,Dorsum,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,0,Leg,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,0,Foot,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,0,Tail,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Snout,-0.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Eye,-0.6,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Head,-0.6,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Dorsum,-0.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Leg,-0.7,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Foot,-0.9,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,20,Tail,-0.5,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Snout,-0.8,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Eye,-1,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Head,-1,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Dorsum,-0.9,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Leg,-1.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Foot,-1.5,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,40,Tail,-1.1,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Snout,-0.6,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Eye,-1.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Head,-1.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Dorsum,-1.3,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Leg,-2,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Foot,-1.8,7.4231,0,0
+Thigmothermy,PTA,Portimao,Cooling,60,Tail,-1.7,7.4231,0,0
+Thigmothermy,PTB,Portimao,Cooling,0,Snout,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,0,Eye,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,0,Head,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,0,Dorsum,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,0,Leg,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,0,Foot,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,0,Tail,0,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Snout,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Eye,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Head,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Dorsum,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Leg,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Foot,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,20,Tail,,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Snout,-1,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Eye,-0.6,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Head,-0.3,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Dorsum,-1.2,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Leg,-0.8,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Foot,-1.2,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,40,Tail,-0.4,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Snout,-1.2,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Eye,-1,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Head,-0.7,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Dorsum,-1.4,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Leg,-1.2,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Foot,-1.4,11.7068,0,0.5
+Thigmothermy,PTB,Portimao,Cooling,60,Tail,-0.5,11.7068,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Snout,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Eye,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Head,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Dorsum,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Leg,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Foot,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,0,Tail,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Snout,-1.4,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Eye,-1.2,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Head,-1.3,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Dorsum,-0.7,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Leg,0,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Foot,-0.8,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,20,Tail,-0.5,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Snout,-0.8,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Eye,-1.1,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Head,-1.6,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Dorsum,-1.3,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Leg,-0.5,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Foot,-2.1,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,40,Tail,-0.8,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Snout,-1.1,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Eye,-1.5,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Head,-2.2,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Dorsum,-1.7,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Leg,-1,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Foot,-2.5,6.4739,0,0.5
+Thigmothermy,TV10,Torres Vedras,Cooling,60,Tail,-1.5,6.4739,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Snout,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Eye,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Head,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Dorsum,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Leg,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Foot,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,0,Tail,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Snout,0.4,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Eye,-0.2,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Head,-0.6,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Dorsum,-0.6,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Leg,-0.4,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Foot,-0.4,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,20,Tail,-0.7,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Snout,0.3,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Eye,-0.6,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Head,-1.3,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Dorsum,-1.5,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Leg,-0.9,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Foot,-0.4,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,40,Tail,-1.3,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Snout,-1.1,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Eye,-1.4,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Head,-1.8,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Dorsum,-2.1,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Leg,-1.8,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Foot,-0.6,6.7359,0,0.5
+Thigmothermy,TV13,Torres Vedras,Cooling,60,Tail,-1.9,6.7359,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Snout,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Eye,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Head,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Dorsum,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Leg,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Foot,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,0,Tail,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Snout,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Eye,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Head,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Dorsum,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Leg,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Foot,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,20,Tail,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Snout,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Eye,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Head,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Dorsum,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Leg,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Foot,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,40,Tail,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Snout,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Eye,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Head,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Dorsum,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Leg,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Foot,,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Cooling,60,Tail,,8.1587,0,0.5
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Snout,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Eye,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Head,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Dorsum,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Leg,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Foot,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,0,Tail,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Snout,-0.7,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Eye,-0.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Head,-0.6,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Dorsum,-0.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Leg,-0.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Foot,-0.4,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,20,Tail,-0.8,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Snout,-1.4,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Eye,-1.2,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Head,-1.3,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Dorsum,-1.1,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Leg,-0.9,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Foot,-0.8,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,40,Tail,-1.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Snout,-2.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Eye,-2,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Head,-2,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Dorsum,-1.7,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Leg,-1.3,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Foot,-0.9,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Cooling,60,Tail,-2.1,6.6253,0,0
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Snout,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Eye,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Head,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Dorsum,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Leg,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Foot,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,0,Tail,0,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Snout,-0.4,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Eye,-0.4,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Head,-0.2,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Dorsum,-0.4,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Leg,-0.5,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Foot,-0.5,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,20,Tail,-0.2,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Snout,-0.6,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Eye,-0.5,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Head,-0.4,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Dorsum,-0.5,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Leg,-0.7,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Foot,-0.9,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,40,Tail,-0.3,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Snout,-1.1,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Eye,-1,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Head,-0.8,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Dorsum,-0.8,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Leg,-1.3,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Foot,-1.3,12.0906,0,0.5
+Thigmothermy,TV2,Torres Vedras,Cooling,60,Tail,-0.5,12.0906,0,0.5
+Heliothermy,AY18,Ayamonte,Heating,0,Snout,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,0,Eye,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,0,Head,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,0,Dorsum,0,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,0,Leg,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,0,Foot,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,0,Tail,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Snout,1.4,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Eye,2.3,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Head,1,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Dorsum,1.4,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Leg,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Foot,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,20,Tail,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Snout,2.4,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Eye,3.2,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Head,2.3,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Dorsum,2.6,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Leg,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Foot,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,40,Tail,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Snout,3.3,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Eye,4.7,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Head,3.1,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Dorsum,3.9,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Leg,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Foot,,7.2041,0,1
+Heliothermy,AY18,Ayamonte,Heating,60,Tail,,7.2041,0,1
+Heliothermy,AY19,Ayamonte,Heating,0,Snout,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,0,Eye,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,0,Head,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,0,Dorsum,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,0,Leg,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,0,Foot,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,0,Tail,0,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Snout,1,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Eye,0.5,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Head,0.6,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Dorsum,1.2,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Leg,0.7,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Foot,0.7,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,20,Tail,0.7,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Snout,1.5,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Eye,0.8,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Head,0.9,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Dorsum,2.3,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Leg,1.2,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Foot,1.1,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,40,Tail,1.3,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Snout,2,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Eye,1.3,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Head,1.5,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Dorsum,3.2,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Leg,1.8,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Foot,1.5,10.7872,1,0
+Heliothermy,AY19,Ayamonte,Heating,60,Tail,2,10.7872,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Snout,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Eye,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Head,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Dorsum,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Leg,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Foot,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,0,Tail,0,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Snout,0.3,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Eye,0.6,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Head,0.5,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Dorsum,1.2,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Leg,1,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Foot,0.5,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,20,Tail,0.8,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Snout,0.6,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Eye,1.1,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Head,1,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Dorsum,2,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Leg,1.8,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Foot,0.7,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,40,Tail,1.6,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Snout,1.1,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Eye,1.7,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Head,1.5,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Dorsum,2.9,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Leg,2.6,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Foot,1,7.657,1,0
+Heliothermy,AY21,Ayamonte,Heating,60,Tail,2.4,7.657,1,0
+Heliothermy,AY6,Ayamonte,Heating,0,Snout,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,0,Eye,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,0,Head,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,0,Dorsum,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,0,Leg,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,0,Foot,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,0,Tail,0,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Snout,0.6,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Eye,0.2,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Head,0.8,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Dorsum,1,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Leg,1.3,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Foot,0.3,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,20,Tail,0.9,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Snout,0.7,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Eye,0.9,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Head,1.5,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Dorsum,1.7,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Leg,2.2,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Foot,0.5,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,40,Tail,1.8,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Snout,1.3,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Eye,1.6,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Head,2.3,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Dorsum,2.5,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Leg,3.3,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Foot,0.7,7.0416,0,0
+Heliothermy,AY6,Ayamonte,Heating,60,Tail,2.6,7.0416,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Snout,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Eye,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Head,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Dorsum,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Leg,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Foot,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,0,Tail,0,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Snout,1,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Eye,0.9,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Head,0.7,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Dorsum,1,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Leg,0.8,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Foot,0.4,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,20,Tail,0.7,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Snout,2.1,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Eye,1.9,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Head,1.6,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Dorsum,1.9,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Leg,1.4,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Foot,0.9,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,40,Tail,1.2,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Snout,2.3,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Eye,2.8,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Head,2.2,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Dorsum,2.5,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Leg,1.8,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Foot,1.2,7.4611,0,0
+Heliothermy,AY7,Ayamonte,Heating,60,Tail,1.7,7.4611,0,0
+Heliothermy,EV1,Evora,Heating,0,Snout,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,0,Eye,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,0,Head,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,0,Dorsum,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,0,Leg,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,0,Foot,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,0,Tail,0,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Snout,-0.3,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Eye,0.2,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Head,0.2,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Dorsum,-0.3,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Leg,1,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Foot,0.5,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,20,Tail,0.8,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Snout,0.2,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Eye,1.6,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Head,1.2,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Dorsum,0.9,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Leg,2.3,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Foot,1.4,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,40,Tail,1.3,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Snout,,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Eye,,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Head,,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Dorsum,,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Leg,,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Foot,,6.6861,0,1
+Heliothermy,EV1,Evora,Heating,60,Tail,,6.6861,0,1
+Heliothermy,EV12,Evora,Heating,0,Snout,0,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,0,Eye,0,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,0,Head,0,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,0,Dorsum,0,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,0,Leg,,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,0,Foot,0,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,0,Tail,0,9.6967,1,1
+Heliothermy,EV12,Evora,Heating,20,Snout,1,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,20,Eye,1.4,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,20,Head,1,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,20,Dorsum,0.9,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,20,Leg,,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,20,Foot,0.4,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,20,Tail,0.9,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Snout,1.9,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Eye,2.5,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Head,2,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Dorsum,1.7,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Leg,,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Foot,0.9,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,40,Tail,1.6,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Snout,2.8,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Eye,3,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Head,2.6,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Dorsum,2.3,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Leg,,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Foot,1,9.6967,1,0
+Heliothermy,EV12,Evora,Heating,60,Tail,2.1,9.6967,1,0
+Heliothermy,EV17,Evora,Heating,0,Snout,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,0,Eye,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,0,Head,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,0,Dorsum,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,0,Leg,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,0,Foot,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,0,Tail,0,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Snout,0.1,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Eye,0.2,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Head,0.8,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Dorsum,0.9,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Leg,1.1,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Foot,0.4,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,20,Tail,0.8,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Snout,0.9,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Eye,1.6,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Head,1.6,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Dorsum,1.8,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Leg,2.5,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Foot,0.9,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,40,Tail,1.6,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Snout,0.7,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Eye,2.3,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Head,2.4,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Dorsum,2.6,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Leg,3.5,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Foot,1.2,10.266,0,0.5
+Heliothermy,EV17,Evora,Heating,60,Tail,2.3,10.266,0,0.5
+Heliothermy,EV19,Evora,Heating,0,Snout,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,0,Eye,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,0,Head,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,0,Dorsum,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,0,Leg,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,0,Foot,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,0,Tail,0,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Snout,0.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Eye,1,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Head,1,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Dorsum,1,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Leg,0.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Foot,0.3,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,20,Tail,0.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Snout,1.2,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Eye,2,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Head,1.9,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Dorsum,1.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Leg,1.4,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Foot,0.5,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,40,Tail,1.1,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Snout,1.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Eye,2.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Head,2.7,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Dorsum,2.4,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Leg,1.9,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Foot,0.8,11.6478,0,0
+Heliothermy,EV19,Evora,Heating,60,Tail,1.6,11.6478,0,0
+Heliothermy,EV8,Evora,Heating,0,Snout,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,0,Eye,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,0,Head,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,0,Dorsum,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,0,Leg,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,0,Foot,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,0,Tail,0,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Snout,0.6,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Eye,1.1,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Head,1.3,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Dorsum,1.4,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Leg,0.7,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Foot,0.6,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,20,Tail,0.6,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Snout,1.3,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Eye,2.2,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Head,2.6,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Dorsum,2.8,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Leg,1.8,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Foot,1.3,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,40,Tail,1.5,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Snout,1.8,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Eye,2.8,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Head,3.1,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Dorsum,3.7,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Leg,2.3,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Foot,1.5,9.4573,1,0.5
+Heliothermy,EV8,Evora,Heating,60,Tail,2,9.4573,1,0.5
+Heliothermy,PT1,Portimao,Heating,0,Snout,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,0,Eye,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,0,Head,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,0,Dorsum,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,0,Leg,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,0,Foot,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,0,Tail,0,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Snout,0.5,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Eye,0.8,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Head,0.8,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Dorsum,0.9,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Leg,0.7,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Foot,0.3,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,20,Tail,0.7,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Snout,1.2,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Eye,1.5,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Head,1.6,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Dorsum,1.7,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Leg,1.1,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Foot,0.4,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,40,Tail,1.1,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Snout,1.7,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Eye,2.2,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Head,2.4,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Dorsum,2.2,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Leg,1.7,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Foot,0.6,11.5596,0,0
+Heliothermy,PT1,Portimao,Heating,60,Tail,1.5,11.5596,0,0
+Heliothermy,PT14,Portimao,Heating,0,Snout,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,0,Eye,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,0,Head,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,0,Dorsum,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,0,Leg,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,0,Foot,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,0,Tail,0,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Snout,0.5,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Eye,0.9,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Head,1,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Dorsum,1.2,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Leg,0.4,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Foot,0.1,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,20,Tail,0.8,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Snout,1,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Eye,1.3,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Head,1.9,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Dorsum,2.2,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Leg,0.9,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Foot,0.3,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,40,Tail,1.6,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Snout,1.3,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Eye,1.9,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Head,2.8,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Dorsum,3.2,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Leg,1.2,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Foot,0.5,7.78,0,0
+Heliothermy,PT14,Portimao,Heating,60,Tail,2.3,7.78,0,0
+Heliothermy,PT18,Portimao,Heating,0,Snout,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,0,Eye,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,0,Head,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,0,Dorsum,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,0,Leg,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,0,Foot,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,0,Tail,0,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Snout,0.7,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Eye,0.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Head,0.8,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Dorsum,1.2,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Leg,1.5,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Foot,0.7,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,20,Tail,1,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Snout,1.4,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Eye,1.7,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Head,1.6,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Dorsum,2.3,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Leg,2.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Foot,1.2,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,40,Tail,1.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Snout,1.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Eye,2.3,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Head,2.2,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Dorsum,3.1,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Leg,3.9,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Foot,1.4,12.0763,1,0.5
+Heliothermy,PT18,Portimao,Heating,60,Tail,2.6,12.0763,1,0.5
+Heliothermy,PTA,Portimao,Heating,0,Snout,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,0,Eye,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,0,Head,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,0,Dorsum,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,0,Leg,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,0,Foot,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,0,Tail,0,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Snout,0.7,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Eye,1,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Head,0.9,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Dorsum,1.2,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Leg,1,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Foot,0.3,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,20,Tail,0.8,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Snout,1,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Eye,1.8,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Head,1.8,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Dorsum,2.2,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Leg,2.1,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Foot,0.4,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,40,Tail,1.6,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Snout,1.7,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Eye,3.1,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Head,2.7,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Dorsum,3.1,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Leg,3,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Foot,0.8,7.6055,0,0
+Heliothermy,PTA,Portimao,Heating,60,Tail,2.5,7.6055,0,0
+Heliothermy,PTB,Portimao,Heating,0,Snout,0,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,0,Eye,0,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,0,Head,0,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,0,Dorsum,0,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,0,Leg,0,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,0,Foot,,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,0,Tail,0,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Snout,1.2,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Eye,1.1,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Head,0.8,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Dorsum,1,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Leg,1.1,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Foot,,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,20,Tail,0.9,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Snout,2,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Eye,2.2,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Head,1.8,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Dorsum,1.8,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Leg,2,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Foot,,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,40,Tail,1.6,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Snout,2.3,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Eye,2.9,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Head,2.5,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Dorsum,2.6,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Leg,2.9,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Foot,,11.7068,1,0.5
+Heliothermy,PTB,Portimao,Heating,60,Tail,2.4,11.7068,1,0.5
+Heliothermy,TV10,Torres Vedras,Heating,0,Snout,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,0,Eye,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,0,Head,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,0,Dorsum,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,0,Leg,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,0,Foot,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,0,Tail,0,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Snout,0.2,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Eye,0.3,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Head,0.5,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Dorsum,0.6,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Leg,0.8,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Foot,0.4,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,20,Tail,1.5,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Snout,0.5,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Eye,0.8,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Head,1,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Dorsum,1.2,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Leg,1.3,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Foot,0.8,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,40,Tail,2.3,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Snout,1.1,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Eye,1.1,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Head,1.8,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Dorsum,2,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Leg,2,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Foot,1.1,6.3937,0,0
+Heliothermy,TV10,Torres Vedras,Heating,60,Tail,3.1,6.3937,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Snout,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Eye,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Head,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Dorsum,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Leg,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Foot,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,0,Tail,0,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Snout,0.9,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Eye,0.5,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Head,1.2,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Dorsum,1.1,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Leg,1.2,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Foot,0.6,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,20,Tail,0.8,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Snout,1.6,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Eye,1,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Head,2,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Dorsum,2.1,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Leg,1.8,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Foot,0.9,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,40,Tail,1.4,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Snout,2.1,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Eye,1.1,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Head,2.7,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Dorsum,2.9,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Leg,2.5,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Foot,1.2,6.3713,0,0
+Heliothermy,TV13,Torres Vedras,Heating,60,Tail,2.1,6.3713,0,0
+Heliothermy,TV14,Torres Vedras,Heating,0,Snout,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,0,Eye,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,0,Head,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,0,Dorsum,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,0,Leg,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,0,Foot,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,0,Tail,0,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Snout,1.1,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Eye,1.2,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Head,1.4,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Dorsum,1.5,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Leg,0.8,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Foot,-0.1,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,20,Tail,1.1,7.918,0,0.5
+Heliothermy,TV14,Torres Vedras,Heating,40,Snout,0.2,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,40,Eye,1.7,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,40,Head,2,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,40,Dorsum,2,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,40,Leg,1.3,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,40,Foot,-1.2,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,40,Tail,1.3,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Snout,0.4,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Eye,2.3,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Head,2.9,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Dorsum,2.7,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Leg,2,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Foot,-1.4,7.918,0,0
+Heliothermy,TV14,Torres Vedras,Heating,60,Tail,1.6,7.918,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Snout,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Eye,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Head,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Dorsum,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Leg,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Foot,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,0,Tail,0,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Snout,0.8,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Eye,0.8,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Head,0.9,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Dorsum,1,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Leg,0.9,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Foot,0.6,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,20,Tail,1,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Snout,1.3,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Eye,1.5,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Head,1.8,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Dorsum,1.7,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Leg,1.6,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Foot,1,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,40,Tail,1.8,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Snout,2,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Eye,2.2,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Head,2.6,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Dorsum,2.5,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Leg,2.5,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Foot,1.5,6.6971,0,0
+Heliothermy,TV16,Torres Vedras,Heating,60,Tail,2.8,6.6971,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Snout,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Eye,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Head,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Dorsum,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Leg,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Foot,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,0,Tail,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Snout,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Eye,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Head,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Dorsum,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Leg,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Foot,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,20,Tail,,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Snout,0.4,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Eye,-0.3,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Head,0.2,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Dorsum,2.2,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Leg,2.9,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Foot,1.8,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,40,Tail,-0.1,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Snout,1.4,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Eye,0,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Head,0.4,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Dorsum,3,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Leg,4.2,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Foot,2.5,12.0274,0,0
+Heliothermy,TV2,Torres Vedras,Heating,60,Tail,0.5,12.0274,0,0
+Thigmothermy,AY18,Ayamonte,Heating,0,Snout,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,0,Eye,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,0,Head,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,0,Dorsum,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,0,Leg,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,0,Foot,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,0,Tail,0,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Snout,-0.1,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Eye,0.6,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Head,0.6,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Dorsum,0.3,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Leg,0.1,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Foot,-0.2,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,20,Tail,0.3,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Snout,0.2,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Eye,1.2,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Head,1.3,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Dorsum,0.9,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Leg,0.8,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Foot,0.1,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,40,Tail,0.8,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Snout,0.6,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Eye,1.4,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Head,1.8,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Dorsum,1.5,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Leg,1.4,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Foot,0.3,7.667,0,0.5
+Thigmothermy,AY18,Ayamonte,Heating,60,Tail,1,7.667,0,0.5
+Thigmothermy,AY19,Ayamonte,Heating,0,Snout,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,0,Eye,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,0,Head,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,0,Dorsum,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,0,Leg,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,0,Foot,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,0,Tail,0,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Snout,0.7,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Eye,0.4,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Head,0.4,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Dorsum,0.5,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Leg,1,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Foot,1.1,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,20,Tail,0.4,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Snout,1.4,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Eye,0.8,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Head,0.8,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Dorsum,1,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Leg,1.7,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Foot,1.8,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,40,Tail,0.7,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Snout,1.9,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Eye,1.4,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Head,1.4,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Dorsum,1.6,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Leg,2.5,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Foot,2.2,10.8708,0,0
+Thigmothermy,AY19,Ayamonte,Heating,60,Tail,1.2,10.8708,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Snout,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Eye,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Head,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Dorsum,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Leg,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Foot,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,0,Tail,0,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Snout,0.8,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Eye,0.7,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Head,0.9,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Dorsum,0.9,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Leg,0.9,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Foot,0.5,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,20,Tail,1.1,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Snout,1.1,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Eye,1,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Head,1.6,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Dorsum,1.5,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Leg,1.5,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Foot,0.1,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,40,Tail,1.9,7.5546,0,0
+Thigmothermy,AY21,Ayamonte,Heating,60,Snout,1.8,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Heating,60,Eye,1.8,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Heating,60,Head,2.3,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Heating,60,Dorsum,2.1,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Heating,60,Leg,2,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Heating,60,Foot,0,7.5546,0,0.5
+Thigmothermy,AY21,Ayamonte,Heating,60,Tail,2.6,7.5546,0,0.5
+Thigmothermy,AY6,Ayamonte,Heating,0,Snout,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,0,Eye,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,0,Head,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,0,Dorsum,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,0,Leg,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,0,Foot,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,0,Tail,0,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Snout,0.3,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Eye,0.6,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Head,0.7,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Dorsum,0.8,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Leg,0.9,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Foot,0.8,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,20,Tail,1.1,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Snout,0.8,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Eye,1.2,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Head,1.3,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Dorsum,1.5,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Leg,1.5,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Foot,1.5,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,40,Tail,2.1,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Snout,1.4,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Eye,1.9,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Head,2.2,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Dorsum,2.5,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Leg,2.3,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Foot,2.1,6.9866,0,0
+Thigmothermy,AY6,Ayamonte,Heating,60,Tail,3,6.9866,0,0
+Thigmothermy,AY7,Ayamonte,Heating,0,Snout,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,0,Eye,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,0,Head,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,0,Dorsum,,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,0,Leg,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,0,Foot,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,0,Tail,0,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Snout,0.4,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Eye,0.6,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Head,0.6,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Dorsum,,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Leg,0.8,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Foot,0.7,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,20,Tail,1.2,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Snout,0.7,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Eye,1,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Head,0.9,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Dorsum,,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Leg,1.5,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Foot,1.2,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,40,Tail,2,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Snout,1,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Eye,1.5,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Head,1.5,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Dorsum,,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Leg,2.1,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Foot,1.5,7.2759,0,0.5
+Thigmothermy,AY7,Ayamonte,Heating,60,Tail,2.8,7.2759,0,0.5
+Thigmothermy,EV1,Evora,Heating,0,Snout,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,0,Eye,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,0,Head,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,0,Dorsum,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,0,Leg,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,0,Foot,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,0,Tail,0,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,20,Snout,0.3,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,20,Eye,0.6,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,20,Head,0.7,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,20,Dorsum,0.7,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,20,Leg,0.9,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,20,Foot,1,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,20,Tail,0.7,6.5996,0,1
+Thigmothermy,EV1,Evora,Heating,40,Snout,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,40,Eye,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,40,Head,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,40,Dorsum,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,40,Leg,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,40,Foot,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,40,Tail,,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Snout,0.9,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Eye,1.7,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Head,2,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Dorsum,2.1,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Leg,3.3,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Foot,3.2,6.5996,0,0
+Thigmothermy,EV1,Evora,Heating,60,Tail,2,6.5996,0,0
+Thigmothermy,EV12,Evora,Heating,0,Snout,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,0,Eye,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,0,Head,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,0,Dorsum,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,0,Leg,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,0,Foot,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,0,Tail,0,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Snout,0.1,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Eye,0.2,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Head,0.2,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Dorsum,0.2,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Leg,0.3,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Foot,0.7,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,20,Tail,0.4,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Snout,0.2,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Eye,0.5,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Head,0.4,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Dorsum,0.4,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Leg,0.7,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Foot,1.1,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,40,Tail,0.7,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Snout,0.8,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Eye,0.8,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Head,0.5,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Dorsum,0.4,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Leg,1,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Foot,1.3,9.6202,1,1
+Thigmothermy,EV12,Evora,Heating,60,Tail,1.1,9.6202,1,1
+Thigmothermy,EV17,Evora,Heating,0,Snout,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,0,Eye,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,0,Head,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,0,Dorsum,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,0,Leg,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,0,Foot,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,0,Tail,0,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Snout,1.1,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Eye,0.6,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Head,0.7,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Dorsum,0.7,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Leg,1.1,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Foot,0.9,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,20,Tail,0.8,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Snout,1.8,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Eye,1.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Head,1.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Dorsum,1.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Leg,1.9,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Foot,1.7,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,40,Tail,1.5,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Snout,2.4,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Eye,2,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Head,2.2,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Dorsum,2.2,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Leg,2.8,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Foot,2.5,10.4821,0,0
+Thigmothermy,EV17,Evora,Heating,60,Tail,2.3,10.4821,0,0
+Thigmothermy,EV19,Evora,Heating,0,Snout,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,0,Eye,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,0,Head,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,0,Dorsum,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,0,Leg,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,0,Foot,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,0,Tail,0,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Snout,1.2,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Eye,0.4,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Head,0.5,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Dorsum,0.6,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Leg,1.4,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Foot,2.2,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,20,Tail,0.6,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Snout,1.9,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Eye,0.9,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Head,1,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Dorsum,1.1,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Leg,2.6,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Foot,3.4,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,40,Tail,1.3,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Snout,3.1,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Eye,1.5,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Head,1.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Dorsum,1.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Leg,3.8,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Foot,4.2,11.6157,0,0
+Thigmothermy,EV19,Evora,Heating,60,Tail,2.3,11.6157,0,0
+Thigmothermy,EV8,Evora,Heating,0,Snout,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,0,Eye,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,0,Head,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,0,Dorsum,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,0,Leg,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,0,Foot,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,0,Tail,0,9.5652,1,0.5
+Thigmothermy,EV8,Evora,Heating,20,Snout,0.2,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,20,Eye,0.4,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,20,Head,0.5,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,20,Dorsum,0.6,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,20,Leg,1,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,20,Foot,1.2,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,20,Tail,0.7,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Snout,0.3,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Eye,0.5,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Head,0.9,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Dorsum,1.1,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Leg,1.7,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Foot,2,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,40,Tail,1.2,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Snout,0.4,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Eye,0.8,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Head,1.4,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Dorsum,1.4,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Leg,2.4,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Foot,2.7,9.5652,1,0
+Thigmothermy,EV8,Evora,Heating,60,Tail,2,9.5652,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Snout,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Eye,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Head,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Dorsum,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Leg,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Foot,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,0,Tail,0,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Snout,0.8,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Eye,0.4,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Head,0.4,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Dorsum,0.4,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Leg,0.5,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Foot,1,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,20,Tail,0.8,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,40,Snout,1.8,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,40,Eye,1,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,40,Head,1,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,40,Dorsum,1.1,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,40,Leg,1.2,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,40,Foot,2,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,40,Tail,1.8,10.9363,1,0.5
+Thigmothermy,PT1,Portimao,Heating,60,Snout,2.3,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,60,Eye,1.4,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,60,Head,1.5,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,60,Dorsum,1.6,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,60,Leg,1.8,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,60,Foot,2.6,10.9363,1,0
+Thigmothermy,PT1,Portimao,Heating,60,Tail,2.5,10.9363,1,0
+Thigmothermy,PT14,Portimao,Heating,0,Snout,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,0,Eye,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,0,Head,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,0,Dorsum,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,0,Leg,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,0,Foot,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,0,Tail,0,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Snout,0.8,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Eye,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Head,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Dorsum,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Leg,0.5,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Foot,0.6,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,20,Tail,0.9,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Snout,1.7,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Eye,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Head,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Dorsum,,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Leg,0.7,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Foot,0.6,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,40,Tail,2.3,7.9894,1,0.5
+Thigmothermy,PT14,Portimao,Heating,60,Snout,2.2,7.9894,1,1
+Thigmothermy,PT14,Portimao,Heating,60,Eye,,7.9894,1,1
+Thigmothermy,PT14,Portimao,Heating,60,Head,,7.9894,1,1
+Thigmothermy,PT14,Portimao,Heating,60,Dorsum,,7.9894,1,1
+Thigmothermy,PT14,Portimao,Heating,60,Leg,1.2,7.9894,1,1
+Thigmothermy,PT14,Portimao,Heating,60,Foot,0.5,7.9894,1,1
+Thigmothermy,PT14,Portimao,Heating,60,Tail,3.2,7.9894,1,1
+Thigmothermy,PT18,Portimao,Heating,0,Snout,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,0,Eye,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,0,Head,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,0,Dorsum,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,0,Leg,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,0,Foot,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,0,Tail,0,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Snout,0.3,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Eye,0.1,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Head,0.4,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Dorsum,0.3,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Leg,0.8,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Foot,0.8,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,20,Tail,0.5,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Snout,0.7,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Eye,0.4,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Head,0.9,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Dorsum,0.8,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Leg,1.4,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Foot,1.4,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,40,Tail,1.2,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Snout,0.9,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Eye,0.7,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Head,1.3,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Dorsum,1.2,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Leg,2,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Foot,1.9,12.0487,1,0
+Thigmothermy,PT18,Portimao,Heating,60,Tail,1.8,12.0487,1,0
+Thigmothermy,PTA,Portimao,Heating,0,Snout,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,0,Eye,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,0,Head,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,0,Dorsum,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,0,Leg,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,0,Foot,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,0,Tail,0,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Snout,0.5,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Eye,0.3,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Head,0.8,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Dorsum,0.6,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Leg,1.3,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Foot,1,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,20,Tail,1,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Snout,1.2,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Eye,0.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Head,1.6,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Dorsum,1.3,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Leg,1.8,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Foot,1.9,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,40,Tail,1.9,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Snout,1.6,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Eye,1,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Head,2.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Dorsum,1.9,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Leg,2.7,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Foot,2.4,7.4231,0,0
+Thigmothermy,PTA,Portimao,Heating,60,Tail,2.8,7.4231,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Snout,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Eye,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Head,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Dorsum,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Leg,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Foot,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,0,Tail,0,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Snout,0.6,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Eye,0.4,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Head,0.6,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Dorsum,0.5,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Leg,0.7,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Foot,1.2,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,20,Tail,0.8,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Snout,1.2,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Eye,0.6,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Head,1,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Dorsum,1.2,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Leg,1.2,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Foot,,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,40,Tail,1.3,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Snout,2,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Eye,0.6,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Head,1.4,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Dorsum,1.8,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Leg,1.9,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Foot,1.9,11.3208,0,0
+Thigmothermy,PTB,Portimao,Heating,60,Tail,1.5,11.3208,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Snout,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Eye,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Head,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Dorsum,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Leg,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Foot,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,0,Tail,0,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Snout,0.9,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Eye,0.8,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Head,0.8,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Dorsum,0.9,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Leg,1.2,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Foot,0.9,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,20,Tail,1.1,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Snout,1.6,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Eye,1.8,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Head,1.8,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Dorsum,1.7,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Leg,2.3,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Foot,1.7,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,40,Tail,2,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Snout,2.3,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Eye,2.6,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Head,2.5,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Dorsum,2.4,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Leg,3,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Foot,2.1,6.4739,0,0
+Thigmothermy,TV10,Torres Vedras,Heating,60,Tail,2.8,6.4739,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Snout,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Eye,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Head,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Dorsum,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Leg,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Foot,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,0,Tail,0,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Snout,1.3,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Eye,0.9,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Head,0.9,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Dorsum,0.8,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Leg,1.1,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Foot,1.1,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,20,Tail,1.1,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Snout,1.9,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Eye,1.6,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Head,1.7,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Dorsum,1.4,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Leg,2,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Foot,1.7,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,40,Tail,2.1,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Snout,2.6,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Eye,2.4,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Head,2.5,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Dorsum,2.3,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Leg,2.9,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Foot,2.1,6.7359,0,0
+Thigmothermy,TV13,Torres Vedras,Heating,60,Tail,2.9,6.7359,0,0
+Thigmothermy,TV14,Torres Vedras,Heating,0,Snout,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,0,Eye,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,0,Head,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,0,Dorsum,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,0,Leg,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,0,Foot,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,0,Tail,0,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Snout,1.1,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Eye,0.9,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Head,0.9,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Dorsum,0.8,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Leg,1.1,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Foot,1.2,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,20,Tail,0.7,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Snout,1.9,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Eye,1.8,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Head,1.9,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Dorsum,1.7,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Leg,2.2,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Foot,1.9,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,40,Tail,1.4,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Snout,2.9,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Eye,2.7,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Head,2.8,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Dorsum,2.5,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Leg,3,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Foot,2.4,8.1587,0,0.5
+Thigmothermy,TV14,Torres Vedras,Heating,60,Tail,1.9,8.1587,0,0.5
+Thigmothermy,TV16,Torres Vedras,Heating,0,Snout,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,0,Eye,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,0,Head,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,0,Dorsum,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,0,Leg,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,0,Foot,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,0,Tail,0,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Snout,0.9,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Eye,0.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Head,0.7,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Dorsum,0.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Leg,0.3,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Foot,0.9,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,20,Tail,0.7,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Snout,1.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Eye,1,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Head,1.2,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Dorsum,1,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Leg,0.7,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Foot,1.4,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,40,Tail,1.5,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Snout,2.1,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Eye,1.6,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Head,1.9,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Dorsum,1.7,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Leg,1.1,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Foot,1.9,6.6253,0,0
+Thigmothermy,TV16,Torres Vedras,Heating,60,Tail,2.2,6.6253,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Snout,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Eye,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Head,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Dorsum,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Leg,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Foot,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,0,Tail,0,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Snout,0.7,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Eye,0.1,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Head,0.2,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Dorsum,0.4,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Leg,0.9,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Foot,0.9,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,20,Tail,0.4,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Snout,1.2,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Eye,0.3,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Head,0.5,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Dorsum,0.9,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Leg,1.5,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Foot,1.3,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,40,Tail,0.6,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Snout,1.8,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Eye,0.8,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Head,0.9,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Dorsum,1.5,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Leg,2.3,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Foot,1.8,12.0906,0,0
+Thigmothermy,TV2,Torres Vedras,Heating,60,Tail,1,12.0906,0,0
