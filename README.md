@@ -1,4 +1,5 @@
-# _Tarentola mauritanica_ Thermal Exchange Rates Study - Data & Analysis Repository
+# _Tarentola mauritanica_ Thermal Exchange Rates Study
+# Data & Analysis Repository
 
 Welcome to the data and analysis repository for the article "**_Developing and Deploying a Novel Method to Investigate Thermal Exchange Rates in Small, Terrestrial Ectotherms: A Proof-of-Concept on the Gecko Tarentola mauritanica_**"
 
