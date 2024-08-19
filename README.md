@@ -10,4 +10,4 @@ To cite this analysis and/or data, please refer to the associated study:
 
 For further enquires, please contact me, the study's corresponding author, at frederico.m.barroso@gmail.com.
 
-On behalf of the rest of the Authors, thank you for your interest in our work and we hope you find this code and/or data useful.
+On behalf of the rest of the Authors, we thank you for your interest in our work and hope you find this code and/or data useful.
