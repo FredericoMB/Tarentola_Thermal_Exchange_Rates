@@ -41,3 +41,11 @@ The remaining variables on the dataset represent:
   - *"**jump**"*: Whether in the previous 20 second period, the animal made any attempt to escape the trial arena and/or the thermal camera's field-of-view. If yes then it was scored as *1*, if not the cell was left empty (*NA*);
 
   - *"**heat2**"*: A variant of the *"**heat**"* varible that simply assigns the correct order of heat exchange processes (animals first underwhent the heating trial and then, after that, the respective cooling trial) - i.e. 1=Heating, 2=Cooling. Simply derived to facilitate ordering the levels of the *"**heat**"* variable when plotting the results in *R*.     
+
+
+## Maximum Rates Dataset:
+
+This dataset ("*max_rates_data*") contains the cumulative temperature change (in ºC) of each body part (snout, eye, head, dorsum, leg, foot, tail) for each individual, in each trial of each treatment, **for a 1-minute period of between *time=60s* and *time=120s***. Cumulative temperature change of each body part was calculated as: **temperature of body part *x* at time *y* - temperature of body part *x* at time=60** and logged in the collumn headed *"**temp**"*. This period of time was deemed the most representative of the maximum rate of heat exchange due to the largest temperature difference between the animal and the environment. Time period 0-59s was disregarded since, being the start of the trial, animals often exhibited exploratory instead of thermoregulatory behaviours. 
+Some variables (*"**treat**"*, *"**id**"* are the same as for the "*cumulative_temperature_data" dataset, while new ones represent:
+
+  - *"**treat**"*: The
