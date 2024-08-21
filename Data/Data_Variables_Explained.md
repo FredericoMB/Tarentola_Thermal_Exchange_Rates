@@ -4,12 +4,12 @@ This is an accessory document to explain what each variable in the two datasets 
 
 ## Cumulative Temperatures Dataset:
 
-This dataset ("*cumulative_temperatures_data*") contains the cumulative temperature change (in ºC) of each body part (snout, eye, head, dorsum, leg, foot, tail) for each individual, in each trial of each treatment. Cumulative temperature change of each body part was calculated as: **temperature of body part *x* at time *y* - temperature of body part *x* at time=0**. These are then logged in the collumn headed by the name of the corresponding body part (column names: "Snout", "Eye", "Head", "Dorsum", "Leg", "Foot", "Tail"). 
+This dataset ("*cumulative_temperatures_data*") contains the cumulative temperature change (in ºC) of each body part (snout, eye, head, dorsum, leg, foot, tail) for each individual, in each trial of each treatment. Cumulative temperature change of each body part was calculated from raw body temperature readings (no presented here) as: **temperature of body part *x* at time *y* - temperature of body part *x* at time=0**. These are then logged in the collumn headed by the name of the corresponding body part (column names: "Snout", "Eye", "Head", "Dorsum", "Leg", "Foot", "Tail"). 
 The remaining variables on the dataset represent:
 
   - *"**treat**"*: The trial's treamtment as a 2 level categorical variable (Heliothermy vs Thigmothermy);
 
-  - *"**heat**"*: The trial's direction of heat eaxchage (i.e. whether the animal was gaining or loosing heat) as a 2 level categorical variable (Heating vs Cooling);
+  - *"**heat**"*: The trial's direction of heat exchange (i.e. whether the animal was gaining or loosing heat) as a 2 level categorical variable (Heating vs Cooling);
     
   - *"**id**"*: The alphanumeric individual identification code given to each individual animal in the trial;
 
@@ -46,6 +46,15 @@ The remaining variables on the dataset represent:
 ## Maximum Rates Dataset:
 
 This dataset ("*max_rates_data*") contains the cumulative temperature change (in ºC) of each body part (snout, eye, head, dorsum, leg, foot, tail) for each individual, in each trial of each treatment, **for a 1-minute period of between *time=60s* and *time=120s***. Cumulative temperature change of each body part was calculated as: **temperature of body part *x* at time *y* - temperature of body part *x* at time=60** and logged in the collumn headed *"**temp**"*. This period of time was deemed the most representative of the maximum rate of heat exchange due to the largest temperature difference between the animal and the environment. Time period 0-59s was disregarded since, being the start of the trial, animals often exhibited exploratory instead of thermoregulatory behaviours. 
-Some variables (*"**treat**"*, *"**id**"* are the same as for the "*cumulative_temperature_data" dataset, while new ones represent:
+Some variables (*"**treat**"*, *"**id**"*, *"**population**"*, *"**mass_initial**"*, *"**urine**"*, *"**posture**"*) are the same as for the "*cumulative_temperature_data" dataset, while new ones represent:
 
-  - *"**treat**"*: The
+  - *"**heat_2**"*: The same as *"**heat**"* in the "*cumulative_temperatures_dataset*", it represents whether the animal is being heated up or cooled down;
+
+  - *"**time_2**"*: This was calculated as *elapsed time* (i.e.*"**time**"*) - *60s*. The data was then filter to exclude missing data, *"**time_2**"<0* and *"**time_2**">120*, thus leaving only the time period of interest for this data subset;
+
+  - *"**body_part**"*: The body part from which data temperature (*"**temp**"*) data point was obtained;
+
+  - *"**temp**"*: The cumulative temperature change (in ºC) for each body part, in each individual, in each treatment of each thermal exchange process and for the time period of interest (i.e. 60-120s total elapsed time). It was calculated from the raw temperature data (not presented here) as: **temperature of body part *x* at time *y* - temperature of body part *x* at time=60**.
+
+
+For further enquiries regarding the data/variables, or for access to the raw temperatures dataset (i.e. not cumulative changes), please contact the study's corresponding author (see this repository's *README* file).
