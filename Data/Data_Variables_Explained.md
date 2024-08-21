@@ -57,4 +57,6 @@ Some variables (*"**treat**"*, *"**id**"*, *"**population**"*, *"**mass_initial*
   - *"**temp**"*: The cumulative temperature change (in ºC) for each body part, in each individual, in each treatment of each thermal exchange process and for the time period of interest (i.e. 60-120s total elapsed time). It was calculated from the raw temperature data (not presented here) as: **temperature of body part *x* at time *y* - temperature of body part *x* at time=60**.
 
 
+## Note:
+These are the clean, final datasets used for the analysis of this project as seen in the *"Code"* section of this repository.
 For further enquiries regarding the data/variables, or for access to the raw temperatures dataset (i.e. not cumulative changes), please contact the study's corresponding author (see this repository's *README* file).
